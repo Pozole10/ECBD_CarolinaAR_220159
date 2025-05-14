@@ -22,11 +22,17 @@ Mejorar la interacción de la aplicación mediante el uso de intents personaliza
 
 Intents Agregados:
 Se crearon los siguientes intents para manejar las nuevas preguntas:
+<br>
 CreadorIntent: responde quién creó la aplicación.
+<br>
 CarreraIntent: indica qué carrera estudia el creador.
+<br>
 ColorFavoritoIntent: menciona el color favorito del creador.
+<br>
 MusicaFavoritaIntent: responde cuál es el grupo o cantante favorito del creador.
+<br>
 Utterances Implementadas:
+<br>
 Se añadieron varias frases de ejemplo (utterances) para entrenar al sistema a reconocer las preguntas, tales como:
 <br>
 ¿Quién creó esta aplicación?
