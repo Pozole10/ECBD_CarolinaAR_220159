@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="img/image.png" alt="Logo 1" width="150"/>
+  <img src="Practica03/img/image.png" alt="Logo 1" width="150"/>
   <img src="img/logo_ti.png" alt="Logo 2" width="150"/>
 </p>
 
