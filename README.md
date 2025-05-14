@@ -1,6 +1,6 @@
 <p align="center">
   <img src="Practica03/img/image.png" alt="Logo 1" width="150"/>
-  <img src="img/logo_ti.png" alt="Logo 2" width="150"/>
+  <img src="Practica03/img/logo_ti.png" alt="Logo 2" width="150"/>
 </p>
 
 # Práctica03: FUNCIONALIDADES POR COMANDOS DE VOZ
@@ -55,13 +55,13 @@ Publicación del proyecto en un repositorio de GitHub ✅
 A continuación se presentan imágenes como evidencia de la práctica realizada:
 
 ### Capturas del Test
-<img src="imgevidencias/image1.png" alt="Logo 1" width="190"/>
+<img src="Practica03/imgevidencias/image1.png" alt="Logo 1" width="190"/>
 <br><br>
-<img src="imgevidencias/image2.png" alt="Logo 1" width="150"/>
+<img src="Practica03/imgevidencias/image2.png" alt="Logo 1" width="150"/>
 
 ### Capturas del código
-<img src="imgevidencias/image3.png" alt="Logo 1" width="250" height="150"/>
+<img src="Practica03/imgevidencias/image3.png" alt="Logo 1" width="250" height="150"/>
 <br> <br>
-<img src="imgevidencias/image4.png" alt="Logo 1" width="250" height="150"/>
+<img src="Practica03/imgevidencias/image4.png" alt="Logo 1" width="250" height="150"/>
 
 <!-- Puedes agregar más secciones o imágenes según lo necesites -->
