@@ -1,0 +1,70 @@
+{
+  "interactionModel": {
+    "languageModel": {
+      "intents": [
+        {
+          "name": "AMAZON.CancelIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.HelpIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.StopIntent",
+          "samples": []
+        },
+        {
+          "slots": [],
+          "name": "HelloWorldIntent",
+          "samples": [
+            "hola",
+            "como estás",
+            "di hola mundo",
+            "di hola",
+            "hola mundo"
+          ]
+        },
+        {
+          "name": "AMAZON.NavigateHomeIntent",
+          "samples": []
+        },
+        {
+          "slots": [],
+          "name": "CreadorIntent",
+          "samples": [
+            "quien creo esta skill",
+            "quien te hizo",
+            "quien creo esta aplicacion"
+          ]
+        },
+        {
+          "slots": [],
+          "name": "CarreraIntent",
+          "samples": [
+            "que carrera estudia",
+            "que esta estudiando"
+          ]
+        },
+        {
+          "slots": [],
+          "name": "ColorFavoritoIntent",
+          "samples": [
+            "cual es su color favorito",
+            "que color le gusta mas"
+          ]
+        },
+        {
+          "slots": [],
+          "name": "MusicaFavoritaIntent",
+          "samples": [
+            "que musica le gusta mas",
+            "cual es su musica favorita"
+          ]
+        }
+      ],
+      "types": [],
+      "invocationName": "saluda carolina"
+    }
+  }
+}
