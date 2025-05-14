@@ -5,8 +5,7 @@
 
 # Práctica03: FUNCIONALIDADES POR COMANDOS DE VOZ
 
-## Elaborado por
-### Carolina Arias Reyes
+## Elaborado por Carolina Arias Reyes
 Grupo: 9A IDGS
 Fecha: 14/05/2025
 Asignatura: Extraccion de Conocimientos de Base de Datos
