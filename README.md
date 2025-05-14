@@ -32,7 +32,7 @@ ColorFavoritoIntent: menciona el color favorito del creador.
 MusicaFavoritaIntent: responde cuál es el grupo o cantante favorito del creador.
 <br>
 Utterances Implementadas:
-<br>
+<br><br><br>
 Se añadieron varias frases de ejemplo (utterances) para entrenar al sistema a reconocer las preguntas, tales como:
 <br>
 ¿Quién creó esta aplicación?
