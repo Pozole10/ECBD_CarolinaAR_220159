@@ -7,8 +7,11 @@
 
 ## Elaborado por Carolina Arias Reyes
 Grupo: 9A IDGS
+<br>
 Fecha: 14/05/2025
+<br>
 Asignatura: Extraccion de Conocimientos de Base de Datos
+<br>
 Profesor: Marco A. Ramírez Hernández
 
 ### Descripción de la Practica
